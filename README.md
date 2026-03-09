@@ -1,11 +1,11 @@
 # Cross-Divisional Project Intake Dashboard
-> Enterprise Power BI Analytics — Built During Bosch Internship
+> Enterprise Power BI Analytics — Built During Automotive Supplier Internship
 
 ## Overview
-Comprehensive project tracking and analytics dashboard built in **Power BI Desktop** for Robert Bosch's global cybersecurity divisions — VM, PS, XC, EM, and 2WP. Designed to unify fragmented project tracking across five divisions supporting Ford and GM automotive programs.
+Comprehensive project tracking and analytics dashboard built in **Power BI Desktop** for a global Tier 1 automotive supplier's cybersecurity organization. Designed to unify fragmented project tracking across multiple divisions supporting major OEM programs.
 
 ## What I Built
-- Custom Bosch-branded dark theme with precise KPI card positioning
+- Custom dark-themed dashboard with precise KPI card positioning
 - Cross-divisional filtering enabling stakeholders to drill into specific division data
 - Real-time pipeline visualization tracking project intake status and blockers
 - Drill-through reporting pages per division with conditional formatting
@@ -22,7 +22,7 @@ Comprehensive project tracking and analytics dashboard built in **Power BI Deskt
 | SharePoint Online | Backend data source and list management |
 
 ## Impact
-- Unified project tracking across **5 Bosch global divisions**
+- Unified project tracking across multiple global cybersecurity divisions
 - Enabled executive stakeholders to identify blockers in real-time
 - Replaced manual spreadsheet tracking with automated dashboard refresh
 
@@ -33,4 +33,4 @@ Comprehensive project tracking and analytics dashboard built in **Power BI Deskt
 - Stakeholder requirements gathering across multiple divisions
 
 ---
-*Built as part of my Product Cybersecurity Internship at Robert Bosch (2025)*
+*Built during a Product Cybersecurity Internship at a Tier 1 automotive supplier (2025)*
